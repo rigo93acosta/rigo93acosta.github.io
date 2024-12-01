@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Rigo's Personal Page
 logo: https://avatars.githubusercontent.com/u/32850432?v=4
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: My personal page.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
