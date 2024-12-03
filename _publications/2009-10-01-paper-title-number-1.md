@@ -1,11 +1,11 @@
 ---
-title: "Ingeniería inversa de pizarra electrónica de béisbol, desarrollo de nuevas propuestas y aplicaciones"
+title: "Ingeniería inversa de pizarra electrónica de béisbol, desarrollo de nuevas propuestas y aplicaciones."
 collection: publications
 category: manuscripts
 permalink: /publication/2019-04-01-pizarra
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'RIELAC'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://scielo.sld.cu/pdf/eac/v40n1/1815-5928-eac-40-01-96.pdf'
 citation: 'Bazán-Prieto, Carlos, Acuña-Pérez, Adrian, & Acosta-González, Rigoberto. (2019). Ingeniería inversa de pizarra electrónica de béisbol, desarrollo de nuevas propuestas y aplicaciones. Ingeniería Electrónica, Automática y Comunicaciones, 40(1), 96-105.'

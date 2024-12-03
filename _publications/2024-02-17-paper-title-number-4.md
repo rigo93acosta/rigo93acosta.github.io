@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Impacto del control de compresión en la entropía de la señal electroencefalográfica reconstruida"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2019-06-25-conference-paper-2
+# excerpt: 'This paper is about fixing template issue #693.'
+date: 2019-06-25
+venue: '18th International Symposium of Electrical Engineering SIE 2019'
+paperurl: 'https://convencion.uclv.cu/web/content/42858?download=true'
+citation: 'DR. CARLOS A. BAZÁN PRIETO; RIGOBERTO ACOSTA GONZÁLEZ; DANIEL ORAMAS OÑOZ. Efectos de la
+normalización en la compresión de señales electroencefalográficas. Cuba. Cayos de Villa Clara. 2019. Simposio.
+XVIII Simposio Internacional de Ingeniería Eléctrica. Universidad Central "Marta Abreu" de Las Villas'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+La compresión con pérdidas en señales electroencefalográficas (EEG) se realiza generalmente para reducir el uso de memoria, reducir los tiempos empleados en la transmisión y ahorrar la carga de las baterías que alimentan a los equipos. Sin embargo, la valoración cuantitativa de la calidad de la señal reconstruida es un tema no resuelto. En este trabajo se evalúa la entropía de la señal recuperada, para valorar el impacto de dos métricas de control de la compresión. Para esto se utiliza un algoritmo de compresión con pérdidas para la señal EEG, con dos alternativas de control: mediante Percentage Root mean square Difference y Root Mean Square Error. Primeramente se utiliza un caso de estudio para mostrar el impacto de estas alternativas sobre la entropía de la señal reconstruida. Finalmente se amplía el estudio y se realiza la comparación de las dos alternativas, según la calidad de la señal reconstruida y la relación con la tasa de compresión. Como resultado, se pudo comprobar la ventaja del empleo de la métrica Root Mean Square Error para el control de la compresión con pérdidas.
