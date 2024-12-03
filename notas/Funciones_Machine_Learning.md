@@ -9,8 +9,8 @@
 
 > Las funciones nos permiten modelar nuestra realidad.
 
-Podemos entender una función como una máquina donde entra un elemento $x$ y
-sale un elemento $y$. En el caso de una variable. $$y = f(x)$$ 
+Podemos entender una función como una máquina donde entra un elemento \(x\) y
+sale un elemento \(y\). En el caso de una variable. \(y = f(x)\)$$ 
 
 Donde $y$ es la variable dependiente y $x$ la variable independiente.
 
