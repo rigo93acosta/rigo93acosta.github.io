@@ -1,9 +1,8 @@
+minimal_mistakes_skin    : "default"
 title: Any blog
 logo: https://avatars.githubusercontent.com/u/32850432?v=4
 description: Blog about trivial things. LOL!!!
 show_downloads: false
-google_analytics:
-theme: minimal-mistakes-jekyll
 markdown: kramdown
 kramdown:
   input: GFM
