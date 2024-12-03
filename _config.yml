@@ -4,3 +4,6 @@ description: Blog about trivial things. LOL!!!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
