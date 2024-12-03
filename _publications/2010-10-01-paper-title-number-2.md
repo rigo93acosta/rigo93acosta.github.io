@@ -1,11 +1,11 @@
 ---
-title: "A Cooperative Multiagent Approach for Optimal Drone Deployment Using Reinforcement Learning"
+title: "A Cooperative Multiagent Approach for Optimal Drone Deployment Using Reinforcement Learning."
 collection: publications
 category: chapters
 permalink: /publication/2023-07-23-chapter-book-1
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-07-23
-venue: 'Chapter Book 1'
+venue: 'Wiley Online Books'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/9781119751717.ch4'
 citation: 'Acosta-González, R., Klaine, P.V., Montejo-Sánchez, S., Souza, R.D., Zhang, L. and Imran, M.A. (2021). A Cooperative Multiagent Approach for Optimal Drone Deployment Using Reinforcement Learning. In Autonomous Airborne Wireless Networks (eds M.A. Imran, Q. Abbasi, O. Onireti and S. Ansari). https://doi.org/10.1002/9781119751717.ch4'
