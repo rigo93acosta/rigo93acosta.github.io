@@ -8,10 +8,8 @@ collection: portfolio
 
 La potencia consumida por movimiento horizontal se calcula usando la siguiente ecuación :
 $$P_h = P_p + P_I$$
-Donde, 
 
 $$ P_p = \frac{1}{2} \rho C_{D_0} S v_h^3 + \frac{\pi}{4} R N_b \rho c_b C_{D_0} w^3 \beta^4 \left(1 + 3 \left( \frac{v_h}{w \beta} \right)^2 \right)$$
-y 
 
 $$P_I = \frac{T}{R} \sqrt{\frac{\lambda - v_h^2}{2}},$$
 $$ \lambda = \sqrt{v_h^4 + \left( \frac{T}{R \pi \rho \beta^2} \right)^2}$$
