@@ -1,5 +1,5 @@
 ---
-title: "Rendimiento de Vuelo de Drones"
+title: "Rendimiento en consumo de potencia del vuelo de Drones"
 excerpt: "Este artículo presenta un análisis detallado del rendimiento de vuelo de drones, enfocándose en el consumo de potencia durante diferentes tipos de movimiento: horizontal, ascenso, descenso y hovering. Se derivan y explican las ecuaciones fundamentales para calcular la potencia requerida en cada caso, basadas en referencias reconocidas de la literatura aeronáutica. Además, se muestran resultados de simulaciones que ilustran cómo varía el consumo de potencia en función del número de rotores y la velocidad de vuelo, proporcionando información valiosa para el diseño y operación eficiente de drones multirrotor."
 collection: portfolio
 ---
