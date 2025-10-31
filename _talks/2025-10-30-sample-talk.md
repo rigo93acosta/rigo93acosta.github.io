@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ecualización en ADCs de Alta Velocidad para Comunicaciones del Futuro"
 date: 2025-10-30
 author: Rigoberto Acosta González
