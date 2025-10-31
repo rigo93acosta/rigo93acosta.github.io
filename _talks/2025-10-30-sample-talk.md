@@ -28,7 +28,9 @@ En el trabajo de investigación "Analysis of Equalization Strategies for Broadba
 
 El estudio se centra en un FI-ADC de 10 GHz con dos canales. Las simulaciones muestran que las mayores distorsiones ocurren alrededor de la frecuencia de corte de 5 GHz, justo en la transición entre las dos sub-bandas. Estas imperfecciones degradan la calidad de la señal, como se muestra en la imagen siguiente, lo que hace necesario diseñar un **ecualizador digital** para compensarlas.
 
-![alives_progress](/images/talk_1/Graph_Idea_NoEq_SUT1.png)
+<p style="text-align:center;">
+  <img src="/images/talk_1/Graph_Idea_NoEq_SUT1.png" alt="Idea sin ecualizar" style="max-width:70%;height:auto;display:block;margin:0 auto;">
+</p>
 
 ## La Solución: Dos Estrategias de Ecualización
 
@@ -42,10 +44,16 @@ En este artículo, se propusieron y compararon dos enfoques de ecualización par
 El rendimiento de ambos ecualizadores se evaluó mediante simulaciones utilizando métricas clave como el Error Cuadrático Medio (MSE), la apertura del diagrama de ojo y el Número Efectivo de Bits (ENOB).
 
 -   **Ambos ecualizadores son efectivos:** Las dos estrategias lograron compensar con éxito las distorsiones del FI-ADC. Como se muestra en la siguiente imagen.
-![alives_progress](/images/talk_1/Graph_Rec_SUT1_eq1.png)
+
+<p style="text-align:center;">
+  <img src="/images/talk_1/Graph_Rec_SUT1_eq1.png" alt="Señal reconstruida ecualizada" style="max-width:70%;height:auto;display:block;margin:0 auto;">
+</p>
 -   **El ecualizador 1D muestra un rendimiento global ligeramente superior:** En métricas generales como el MSE y la apertura del ojo, el enfoque 1D fue marginalmente mejor.
 -   **El rendimiento varía según la frecuencia:** Ambos ecualizadores mostraron un excelente rendimiento en la sub-banda de baja frecuencia (con un ENOB superior a 7 bits, cercano al máximo teórico de 8 bits). En la sub-banda de alta frecuencia, el rendimiento fue inferior (ENOB de 6 bits). Como muestran las imágenes siguientes, la primera imagen corresponde al ecualizador 1D y la segunda al 2D.:
-![alives_progress](/images/talk_1/enob_1D.png)![alives_progress](/images/talk_1/enob_2D.png)
+<div style="text-align:center;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;align-items:flex-start;">
+  <img src="/images/talk_1/enob_1D.png" alt="ENOB 1D" style="max-width:45%;height:auto;">
+  <img src="/images/talk_1/enob_2D.png" alt="ENOB 2D" style="max-width:45%;height:auto;">
+</div>
 -   **La zona de transición sigue siendo un desafío:** El rendimiento de ambos ecualizadores se degrada notablemente en la frecuencia de corte de 5 GHz, lo que indica la necesidad de futuras investigaciones para mejorar la compensación en esta región crítica.
 
 
