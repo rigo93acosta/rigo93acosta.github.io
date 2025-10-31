@@ -3,9 +3,8 @@ layout: post
 title: "Ecualización en ADCs de Alta Velocidad para Comunicaciones del Futuro"
 date: 2025-10-30
 author: Rigoberto Acosta González
-affiliation: Instituto Balseiro (UNCuyo-CNEA) & CONICET
 permalink: /blog/analisis-ecualizacion-fi-adc/
-excerpt: "Un resumen del análisis de estrategias de ecualización digital, 1D y 2D, para mejorar el rendimiento de los convertidores analógico-digitales de frecuencia intercalada (FI-ADC) en sistemas de comunicación de banda ancha."
+excerpt: "Un resumen del análisis de estrategias de ecualización digital, 1D y 2D, para mejorar el rendimiento de los convertidores analógico-digitales de intercalado en frecuencia (FI-ADC) en sistemas de comunicación de banda ancha."
 categories:
   - blog
   - investigacion
