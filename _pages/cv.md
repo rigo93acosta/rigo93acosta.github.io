@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Telecommunications Engineering, Instituto Balseiro, Argentina (in progress)
-* M.S. in Telecommunications Engineering
-* B.S. in Engineering
+* Previous academic background in Telecommunications Engineering
 
 Work experience
 ======
